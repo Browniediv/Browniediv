@@ -7,5 +7,5 @@ About me
 Interests		
 📊 Data structures, algorithms, and problem-solving
 Let's Connect
-📫 Reach me at your-diugulhane16@gmail.com
+📫 Reach me - diugulhane16@gmail.com
 
