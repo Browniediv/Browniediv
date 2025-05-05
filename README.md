@@ -5,9 +5,6 @@
 About me
 🎓 B.E in Computer Science Engineering | RV Institute of Technology and Management
 
-Interests		
-📊 Data structures, algorithms, and problem-solving
-
 Let's Connect
-📫 Reach me at - diugulhane16@gmail.com
+📫 Reach me - diugulhane16@gmail.com
 
